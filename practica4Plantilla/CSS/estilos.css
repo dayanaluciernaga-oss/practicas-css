@@ -1,0 +1,75 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+
+body{
+	font-family:"Bookman Old Style";
+
+}
+
+
+
+.contenedor{
+      width:70% ;
+      margin:0 auto ;
+      background: #218380;
+}
+
+
+
+
+header{
+	background:#ffbc42 ;
+	width:100% ;
+	height:300px ;
+
+}
+
+header p{
+	color:#ffffff ;
+	text-align:center ;
+}
+
+
+main{
+	background:#d81159 ;
+
+}
+
+main .Safiro{
+	width: 150px;
+	height:150px;
+	background:#218380 ;
+	margin:0 auto ;
+	border:5px solid #ffffff;
+
+}
+
+main .chocolate{
+	height:200px ;
+	background:#73d2de ;
+	padding: 25px;
+	text-align: center;
+}
+
+
+main .chocolate h2{
+	margin: 20px;
+
+}
+
+
+
+footer{
+	background:#8f2d56 ;
+	padding: 20px;
+	text-align: center;
+
+}
+
+footer p{
+	font-weight: bold;
+	font-size: 20px;
+}

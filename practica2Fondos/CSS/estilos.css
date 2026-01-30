@@ -1,0 +1,22 @@
+body{
+  font-family: Verdana;
+  background: url('../fondo/more-leaves-on-green.png');
+  background-repeat: repeat;
+}
+
+h1, p{
+  color: #000000;
+  text-align: center;
+}
+
+div{
+  width: 60%;
+  height: 500px;
+  background: #ffffff;
+  margin: auto;
+}
+
+.negritas{
+  font-weight: bold;
+  font-size: 18px;
+}

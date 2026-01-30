@@ -1,0 +1,55 @@
+ *{
+padding: 0;
+margin: 0;
+}
+
+body{
+	font-family:"Bookman Old Style";
+
+
+
+ .uno{
+ 	background:#fff3b0;
+    width:200px;
+    height:200px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 80px;
+    margin-left: 150px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    border: 1px solid #000;
+    
+}
+
+
+.dos{
+	background:#e09f3e;
+	width:200px;
+    height:200px;
+    margin:10px 20px 80px 150px;
+    padding: 10px 20px 30px 20px;
+    border-radius: 100%;
+
+
+}
+
+
+.tres{
+	background:#a8dadc;
+	width:50%;
+	margin:20px ;
+	padding:10px 20px ;
+	border-radius: 40px;
+
+}
+
+
+.cuatro{
+	background:#e63946 ;
+
+
+}	
+

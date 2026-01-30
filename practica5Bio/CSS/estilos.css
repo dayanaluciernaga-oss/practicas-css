@@ -1,0 +1,81 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.contenedor{
+	width: 60%;
+	background:#ffffff ;
+	margin: 0 auto;
+	border: 1px  solid #c1c1c1;
+}
+
+header{
+	width:100% ;
+	height: 300px;
+	background:url('../img/chocolate.jpg');black;
+	background-size:cover ;
+	background-position: center;
+}
+
+
+
+
+
+
+main .Safiro{
+	width:150px ;
+	height: 150px;
+	background: gray;
+	margin:-65px 0 20px 0 ;
+	border:6px solid #ffffff ;
+	border-radius: 50%;
+	
+
+}
+
+
+
+main .Safiro img{
+      width: 100%;
+      border-radius: 50%;
+      
+}
+
+
+
+main .chocolate{
+	font-family: calibri;
+	width: 100%;
+	height: 200px;
+	padding: 20px;
+	text-align: center;
+	
+
+}
+
+main .chocolate h2{
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+main .chocolate p{
+	font-size: 20px;
+
+}
+
+
+
+footer{
+	background:#f76c5e ;
+	padding: 30px;
+}
+
+
+
+footer p{
+	text-align: center;
+	color:#ffffff  ;
+	font-size:35px ;
+}
